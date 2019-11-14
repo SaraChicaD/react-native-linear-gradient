@@ -129,6 +129,9 @@ public override List<IReactPackage> Packages => new List<IReactPackage>
 
 ## Examples
 
+### About
+The gradient out-of-the-box begins left-to-right in the `colors` array with lightest color to darkest color. The default gradient is vertical, or top-to-bottom. 
+
 ### Simple
 
 The following code will produce something like this:
